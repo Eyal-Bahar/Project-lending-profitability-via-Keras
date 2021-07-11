@@ -11,7 +11,9 @@ and finally
 
 ----   THIS WAS GREAT FUN!!  ------
 
- 
+______________________________________
+______________________________________
+______________________________________
   
 #### More technical info:
 This data is a subset of the LendingClub DataSet obtained from Kaggle. 
