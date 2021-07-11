@@ -12,6 +12,8 @@ and finally
 ----   THIS WAS GREAT FUN!!  ------
 
 
+
+
 ### More technical info:
 This data is a subset of the LendingClub DataSet obtained from Kaggle. 
 However, this dataset is a special version modified forextre feature eninnering to-do work as part of the exerciseto download the data, use my dropbox link : https://www.dropbox.com/s/c2yzukpnr91c21f/lending_club_loan_two.csv?dl=0 or contact me
