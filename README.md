@@ -1,5 +1,5 @@
 # Project-lending-profitability-via-Keras
-
+## Summary:
 A project inspired by an Udemy course teaching Tensorflow. 
 Here, i received data based from kaggle about whether or not the borrower defaults. 
 I had to:
